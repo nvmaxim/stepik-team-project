@@ -1,6 +1,6 @@
 # вношу изменения в функцию greet - string (проверяем уникальность строки)
 
-stirng = "ветка main вызываю конфликт с веткой manual-conflict"
+stirng = "ветка manual-conflict"
 
 
 def greet(s):
